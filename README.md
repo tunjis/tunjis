@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) It's Justin
 ==============================================================================================================================
 
-### Data Analyst
-==============================================================================================================================
+### Data Analyst  
 
+-------------
 * 🌍  Based in <a href="https://maps.app.goo.gl/hMxhRX5ptQAAkL7NA/" target="_blank">**London**</a>
 * 🖥️  See my portfolio at [Data’s the new oil. I’m the refinery.](https://github.com/tunjis)
 * 📫  Contact me via my [LinkedIn profile](https://linkedin.com/in/justincraciun/)
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud"/> **Google Cloud** </a>&nbsp;
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="36" height="36" alt="Google Colab"/> **Google Colab** </a>&nbsp;&nbsp;  
 
-=============
+-------------
 
 ### Socials
 
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   </picture>
 </a>&nbsp;&nbsp;  
 
-=============
+-------------
 
 ### Support Me
 
