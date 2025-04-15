@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ==============================================================================================================================
 
 ### Data Analyst  
-*💬 Data’s the new oil. I’m the refinery.*
+
 ------------
 
 * 🌍  Based in <a href="https://maps.app.goo.gl/hMxhRX5ptQAAkL7NA/" target="_blank">**London**</a>
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 * 🧠  Learning Data Science
 * 🤝  Open to collaborating on interesting projects
 * ⚡  AI enthusiast
+
+------------
 
 ### 🛠️ Technical Skills
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
@@ -37,7 +39,9 @@ Here are some ideas to get you started:
 
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36" alt="Microsoft Azure"/> **Microsoft Azure** </a>&nbsp;
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud"/> **Google Cloud** </a>&nbsp;
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="36" height="36" alt="Google Colab"/> **Google Colab** </a>&nbsp;&nbsp;
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="36" height="36" alt="Google Colab"/> **Google Colab** </a>&nbsp;&nbsp;  
+
+------------
 
 ### Socials
 
@@ -54,7 +58,9 @@ Here are some ideas to get you started:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
     <img alt="LinkedIn Profile" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </picture>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;  
+
+------------
 
 ### Support Me
 
