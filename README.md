@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 
 Data Analyst
 ------------
-
-*Data’s the new oil. I’m the refinery.*
+*⚡ Data’s the new oil. I’m the refinery.*
 
 * 🌍  Based in <a href="https://maps.app.goo.gl/hMxhRX5ptQAAkL7NA/" target="_blank">**London**</a>
 * 🖥️  See my portfolio at [Data’s the new oil. I’m the refinery.](https://github.com/tunjis)
