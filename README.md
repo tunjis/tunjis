@@ -29,16 +29,16 @@ Here are some ideas to get you started:
 
 -------------
 
-### 🛠️ Technical Skills
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/> **Python** </a>&nbsp;
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png" width="36" height="36" alt="Microsoft Excel"/> **Microsoft Excel** </a>&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL"/> **MySQL** </a>&nbsp;
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/24/000000/tableau-software.png" width="36" height="36" alt="Tableau"/> **Tableau** </a>&nbsp;
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/24/000000/power-bi.png" width="36" height="36" alt="Power BI"/> **Power BI** </a>&nbsp;  
-
-<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36" alt="Microsoft Azure"/> **Microsoft Azure** </a>&nbsp;
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="Google Cloud"/> **Google Cloud** </a>&nbsp;
-<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="36" height="36" alt="Google Colab"/> **Google Colab** </a>&nbsp;&nbsp;  
+| 🛠️ Technical Skills                                                                                                                                                            | Description                                                                      |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36"/> **Python** </a> | Scripting for data analysis, process automation, and working with libraries.     |
+| <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/24/000000/microsoft-excel-2019--v1.png" width="36" height="36"/> **Microsoft Excel** </a> | Advanced formulas, data manipulation, pivot tables, and dashboard creation.      |
+| <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36"/> **MySQL** </a> | Writing SQL queries for data retrieval, manipulation, and database interaction. |
+| <a href="https://www.tableau.com/" target="_blank"><img src="https://img.icons8.com/color/24/000000/tableau-software.png" width="36" height="36"/> **Tableau** </a> | Creating interactive data visualisations and dashboards for analysis.           |
+| <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/24/000000/power-bi.png" width="36" height="36"/> **Power BI** </a> | Developing business intelligence reports and dashboards from various data sources. |
+| <a href="https://azure.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="36" height="36"/> **Microsoft Azure** </a> | Working with key Azure services for cloud computing and resource management.     |
+| <a href="https://cloud.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="36" height="36"/> **Google Cloud** </a> | Utilising core GCP services for cloud storage, computation, and data tasks.    |
+| <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-colab.png" width="36" height="36"/> **Google Colab** </a> | Using cloud-based notebooks for Python development and data exploration.         |
 
 -------------
 
