@@ -60,4 +60,5 @@ Here are some ideas to get you started:
 
 ### ☕ Support Me
 
-<a href="[[https://www.buymeacoffee.com/tunjis](https://buymeacoffee.com/jstunjisu)]" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee"/></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/jstunjisu" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee"/></a>&nbsp;&nbsp;
+
