@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) It's Justin
 ==============================================================================================================================
 
-### Data Analyst  
+### 🧑‍💻 Data Analyst  
 
 -------------
 * 🌍  Based in <a href="https://maps.app.goo.gl/hMxhRX5ptQAAkL7NA/" target="_blank">**London**</a>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 -------------
 
-### Socials
+### 🔁 Socials
 
 <a href="https://www.github.com/tunjis/" target="_blank" rel="noreferrer">
   <picture>
@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 
 -------------
 
-### Support Me
+### ☕ Support Me
 
 <a href="https://www.buymeacoffee.com/tunjis" target="_blank" rel="noreferrer"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee"/></a>&nbsp;&nbsp;
