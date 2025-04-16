@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)  
-🧑‍💻 I'm Justin, and I'm looking for my first job as a Data Analyst.
+🧑‍💻 I'm Justin, and I'm looking for my first job as a Data Analyst.  
 
--------------  
 ## About me  
 * 🌍  Based in <a href="https://maps.app.goo.gl/hMxhRX5ptQAAkL7NA/" target="_blank">**London**</a>
 * 🖥️  See my portfolio at [Data’s the new oil. I’m the refinery.](https://github.com/tunjis?tab=repositories)
